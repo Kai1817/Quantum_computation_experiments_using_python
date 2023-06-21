@@ -1,5 +1,5 @@
 # Experiments_using_Quantum_computers
-explore about quantum experiments using quantum gates and IBMQ
+exploring about quantum experiments using quantum gates and IBMQ
 
 Quantum Mechanics happens in the Hilbert space while we humans think that we exist in
 the three-dimensional Euclidean space (flat manifold) or may be in the relativistic
